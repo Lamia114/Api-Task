@@ -1,0 +1,39 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "Name": "Ahmed",
+      "Address": "Muscat",
+      "Mobile": "122365498",
+      "Email": "Ahmed@gmail.com"
+    },
+    {
+      "id": 2,
+      "Name": "Huda",
+      "Address": "Muscat",
+      "Mobile": "122365498",
+      "Email": "Huda@gmail.com"
+    },
+    {
+      "id": 3,
+      "Name": "Suad",
+      "Address": "Muscat",
+      "Mobile": "122365498",
+      "Email": "Suad@gmail.com"
+    },
+    {
+      "id": 4,
+      "Name": "Khalid",
+      "Address": "Muscat",
+      "Mobile": "122365498",
+      "Email": "Khalid@gmail.com"
+    },
+    {
+      "id": 5,
+      "Name": "Lamia",
+      "Address": "Muscat",
+      "Mobile": "122365498",
+      "Email": "Lamia@gmail.com"
+    }
+  ]
+}

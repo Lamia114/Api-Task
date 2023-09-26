@@ -1,0 +1,23 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+         <th scope="col">Address</th> 
+        <th scope="col">Mobile</th>
+        <th scope="col">Email</th>
+        <th scope="col">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let student of collection ">
+        <td>{{student.id}}</td>
+        <td>{{student.Name}}</td>
+        <td>{{student.Address}}</td> 
+        <td>{{student.Mobile}}</td>
+        <td>{{student.Email}}</td>
+        <td><i class="fa fa-edit" style="font-size:30px;color:red"></i><i class="fa fa-trash" style="font-size:30px;color:red"></i></td>
+      </tr>
+    </tbody>
+  </table>
+
